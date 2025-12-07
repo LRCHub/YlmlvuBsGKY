@@ -1,0 +1,37 @@
+# THE SNAKE – SPEED OF LIGHT
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Speed of light (demo di Transdimentional
+Man)
+
+Where the speed of light breaks thro'
+Changing shapes distort the view
+Red rimmed stars, teardrops of light
+I can vanish into the night
+
+With laser eyes I will awake
+Panic is the rule I make
+Trace my background identikit
+A source of light which shall emit
+
+I see what no one foretells
+I can travel down to hell
+I know what is often said
+Written in the book of the dead
+
+I can travel anyway
+With my energising ray
+And I'll visit in your room
+Appearing from within the gloom
+Watch me take you in your dreams
+Cascading iridescent light beams
+Fingers curling in the sun
+Reaching for what has begun
+
+Suddenly I hear all your lies
+See all the secrets of 1000 eyes
+But you may laugh or gasp for breath
+What is life and what is death
+```
