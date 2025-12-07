@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SPEED OF LIGHT",
+  "base_artist": "THE SNAKE",
+  "createdAt": "2025-12-07T03:18:43.307816Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Speed of Light",
+      "artist": "Orchestral Manoeuvres In the Dark",
+      "has_synced": false,
+      "path": "select/01_Speed_of_Light_Orchestral_Manoeuvres_In_the_Dark.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Faster Than the Speed of Light",
+      "artist": "Yngwie J. Malmsteen’s Rising Force",
+      "has_synced": true,
+      "path": "select/02_Faster_Than_the_Speed_of_Light_Yngwie_J._Malmsteen’s_Rising_Force.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Speed of Light",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/03_Speed_of_Light_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Speed of Light",
+      "artist": "Van Canto",
+      "has_synced": true,
+      "path": "select/04_Speed_of_Light_Van_Canto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Speed of Light",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/05_Speed_of_Light_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Speed Of Light",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/06_Speed_Of_Light_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Speed Of Light",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/07_Speed_Of_Light_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Speed of Light (Remastered 2016) (Live Version)",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/08_Speed_of_Light_(Remastered_2016)_(Live_Version)_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Speed Of Light (Live Version)",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/09_Speed_Of_Light_(Live_Version)_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Speed Of Light",
+      "artist": "Queensrÿche",
+      "has_synced": true,
+      "path": "select/10_Speed_Of_Light_Queensrÿche.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Speed of Light",
+      "artist": "Tesla Boy",
+      "has_synced": true,
+      "path": "select/11_Speed_of_Light_Tesla_Boy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Speed of Light",
+      "artist": "Exilia",
+      "has_synced": false,
+      "path": "select/12_Speed_of_Light_Exilia.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "speed of light",
+      "artist": "The Cult",
+      "has_synced": true,
+      "path": "select/13_speed_of_light_The_Cult.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Speed of Light",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/14_The_Speed_of_Light_Hawkwind.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Faster Than Speed of Light",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/15_Faster_Than_Speed_of_Light_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Speed of Light",
+      "artist": "Pegboard Nerds",
+      "has_synced": false,
+      "path": "select/16_Speed_of_Light_Pegboard_Nerds.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Speed Of Light - Extended Ver.",
+      "artist": "The Snake",
+      "has_synced": false,
+      "path": "select/pl_01_Speed_Of_Light_-_Extended_Ver._The_Snake.txt"
+    }
+  ]
+}
